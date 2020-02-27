@@ -4,7 +4,7 @@ Flask application that will read the file and render it on HTML Page
 
 This repository contains python file and txt files which needs to be render
 
-Please install requirment file bey executing 
+Please enable virutal environment and install requirement file bey executing 
 pip install -r requirements.txt
 
 
