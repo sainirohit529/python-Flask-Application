@@ -14,5 +14,5 @@ for particular file
 URL  = localhost:port/render_content/<file_name>/
 
 for rendering content between start end line
-URL  = localhost:port/render_content/<file_name>/<start>/<end>/
+URL  = localhost:port/render_content/file_name/start/end/
   
